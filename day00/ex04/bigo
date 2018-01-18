@@ -1,0 +1,2 @@
+time: O(m n): m being the length of the pattern, n being  length of the text
+space: O(p): p patterns of combined length m
